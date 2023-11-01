@@ -58,7 +58,7 @@ public class ListaTarefasGUI extends JFrame  {
             System.out.println(e.getMessage());
         }
     }
-    public static void imprimeTarefas(ArrayList<String> listaTarefas){
+    public void imprimeTarefas(ArrayList<String> listaTarefas){
         String msg = "";
 
         for (int i = 1; i <= listaTarefas.size(); i++) {
