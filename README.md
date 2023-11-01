@@ -1,7 +1,15 @@
+
+
 ## Lista de Tarefas em Java
 
 Este é um simples programa em Java que cria um lista de tarefas.
 O programa permite ao usuário incluir, remover e listar as tarefas.
+
+## Menu
+1. [Como Executar](#como-executar)
+1. [Funcionalidades do Programa](#funcionalidades-do-programa)
+1. [Telas](#telas-da-aplicação)
+1. [Menu Via Terminal](#menu-via-terminal-lista-tarefas)
 
 ```markdown
 ## Requisitos
